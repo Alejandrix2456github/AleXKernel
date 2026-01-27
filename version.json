@@ -1,0 +1,8 @@
+{
+  "name": "SniP",
+  "version": "1.0",
+  "sprites": ["SniP.axrp.sprite3", "SniP.btt"],
+  "path": "/system/apps/snip/",
+  "root_required": true,
+  "description": "GUI store-based on ASPKG"
+}
