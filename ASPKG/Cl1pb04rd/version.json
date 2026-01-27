@@ -1,0 +1,8 @@
+{
+  "name": "Cl1pb04rd",
+  "version": "1.0",
+  "sprites": ["Cl1pb04rd.axrp.sprite3", "Cl1pb04rd.btt"],
+  "path": "/system/apps/clipboard/",
+  "root_required": true,
+  "description": "Clipboard manager app"
+}
