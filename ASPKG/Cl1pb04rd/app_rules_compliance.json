@@ -1,0 +1,13 @@
+{
+  "app_id": "Cl1pb04rd",
+  "developer": "AlejandrixKing245",
+  "requirements": {
+    "audio_driver": "TurboPipe_v2",
+    "legacy_audio_blocked": true,
+    "root_access": "limited"
+  },
+  "protected_keys_whitelist": [
+    "HKCU/Software/Cl1pb04rd"
+  ],
+  "checksum": "AX-8821-TK"
+}
