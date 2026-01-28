@@ -1,0 +1,6 @@
+{
+  "app_id": "SniP",
+  "rule_audio_driver": "Legacy",
+  "rule_legacy_blocked": "false",
+  "rule_root_access": "limited"
+}
